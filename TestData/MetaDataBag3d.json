@@ -1,0 +1,43 @@
+{
+    "geographicalExtent": [
+        81277.60600683594,
+        454417.98898901365,
+        -2.936049699783325,
+        81932.5670053711,
+        455079.85300268553,
+        314.75860595703125
+    ],
+    "citymodelIdentifier": "fc5a5720-efaa-4589-bb23-464d59e0d564",
+    "datasetReferenceDate": "2021-03-14",
+    "datasetCharacterSet": "UTF-8",
+    "datasetTopicCategory": "geoscientificInformation",
+    "distributionFormatVersion": "1.0",
+    "spatialRepresentationType": "vector",
+    "metadataStandard": "ISO 19115 - Geographic Information - Metadata",
+    "metadataStandardVersion": "ISO 19115:2014(E)",
+    "metadataCharacterSet": "UTF-8",
+    "metadataDateStamp": "2021-03-14",
+    "textures": "absent",
+    "materials": "absent",
+    "cityfeatureMetadata": {
+        "Building": {
+            "uniqueFeatureCount": 763,
+            "aggregateFeatureCount": 2289,
+            "presentLoDs": {
+                "1.2": 763,
+                "1.3": 763,
+                "2.2": 763
+            }
+        }
+    },
+    "presentLoDs": {
+        "1.2": 763,
+        "1.3": 763,
+        "2.2": 763
+    },
+    "thematicModels": [
+        "Building"
+    ],
+    "referenceSystem": "urn:ogc:def:crs:EPSG::7415",
+    "fileIdentifier": "3dbag_v21031_7425c21b_5881.json"
+}

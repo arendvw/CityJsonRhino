@@ -1,0 +1,130 @@
+// "ID_0599100010004071":
+{
+    "address": {
+        "CountryName": "Nederland",
+        "LocalityName": "Rotterdam",
+        "location": {
+            "type": "MultiPoint",
+            "boundaries": [
+                8
+            ],
+            "lod": 0
+        }
+    },
+    "type": "Building",
+    "attributes": {
+        "measuredHeight": 2.68,
+        "yearOfConstruction": 1963,
+        "creationDate": "2018-06-05"
+    },
+    "geographicalExtent": [
+        96870.2,
+        439289.030501399,
+        -6.12999999999876,
+        96873.22,
+        439293.03,
+        -3.45440663093004
+    ],
+    "geometry": [
+        {
+            "type": "Solid",
+            "boundaries": [
+                [
+                    [
+                        [
+                            0,
+                            1,
+                            2,
+                            3
+                        ]
+                    ],
+                    [
+                        [
+                            4,
+                            5,
+                            6,
+                            7
+                        ]
+                    ],
+                    [
+                        [
+                            3,
+                            2,
+                            5,
+                            4
+                        ]
+                    ],
+                    [
+                        [
+                            0,
+                            3,
+                            4,
+                            7
+                        ]
+                    ],
+                    [
+                        [
+                            7,
+                            6,
+                            1,
+                            0
+                        ]
+                    ],
+                    [
+                        [
+                            6,
+                            5,
+                            2,
+                            1
+                        ]
+                    ]
+                ]
+            ],
+            "semantics": {
+                "values": [
+                    [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                ],
+                "surfaces": [
+                    {
+                        "type": "GroundSurface",
+                        "id": "UUID_31a5f10c-8db0-4d10-9c33-1d61484a3c63",
+                        "creationDate": "2018-06-05"
+                    },
+                    {
+                        "type": "RoofSurface",
+                        "id": "UUID_5dee8b33-eab3-467b-b3a2-09fa612e6e19",
+                        "creationDate": "2018-06-05"
+                    },
+                    {
+                        "type": "WallSurface",
+                        "id": "UUID_faffc519-1677-4a73-9a46-dfc503498f62",
+                        "creationDate": "2018-06-05"
+                    },
+                    {
+                        "type": "WallSurface",
+                        "id": "UUID_dfa775a3-3b6c-40d8-b9ac-23cbf4c2f23f",
+                        "creationDate": "2018-06-05"
+                    },
+                    {
+                        "type": "WallSurface",
+                        "id": "UUID_efaecf6c-c4b1-4a5f-88f6-37241773fb72",
+                        "creationDate": "2018-06-05"
+                    },
+                    {
+                        "type": "WallSurface",
+                        "id": "UUID_a987eed4-0404-4ab7-81f5-668159b39f3a",
+                        "creationDate": "2018-06-05"
+                    }
+                ]
+            },
+            "lod": 2
+        }
+    ]
+}

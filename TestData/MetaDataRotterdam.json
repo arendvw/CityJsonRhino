@@ -1,0 +1,14 @@
+{
+    "referenceSystem": "urn:ogc:def:crs:EPSG::28992",
+    "geographicalExtent": [
+        96714.04,
+        439209.3,
+        -6.448,
+        96938.36,
+        439333.895,
+        7.46
+    ],
+    "presentLoDs": {
+        "2.0": 91
+    }
+}
